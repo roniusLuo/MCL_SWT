@@ -1,6 +1,8 @@
-# Jing Luo, Qi Mao, Weiwei Shi, Zhenghao Shi, Xiaofan Wang, Xiaofeng Lu, Xinhong Hei. Mirror contrastive loss based sliding window transformer for subject-independent motor imagery based EEG signal recognition[C]//Human Brain and Artificial Intelligence: Fourth International Workshop, HBAI 2024, Held in Conjunction with IJCAI 2024, Jeju, South Korea, Aug 3-9, 2024. Accepted
+# Implement of Mirror contrastive loss based sliding window transformer (MCL-SWT). 
 
-Implement of Mirror contrastive loss based sliding window transformer (MCL-SWT). Written by Jing Luo from Xi'an University of Technology, China.
+Written by Jing Luo from Xi'an University of Technology, China.
+
+Jing Luo, Qi Mao, Weiwei Shi, Zhenghao Shi, Xiaofan Wang, Xiaofeng Lu, Xinhong Hei. Mirror contrastive loss based sliding window transformer for subject-independent motor imagery based EEG signal recognition[C]//Human Brain and Artificial Intelligence: Fourth International Workshop, HBAI 2024, Held in Conjunction with IJCAI 2024, Jeju, South Korea, Aug 3-9, 2024. Accepted
 
 E-mail: luojing@xaut.edu.cn
 
