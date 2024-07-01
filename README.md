@@ -1,4 +1,4 @@
-# Implement of Mirror contrastive loss based sliding window transformer (MCL-SWT). 
+# Mirror contrastive loss based sliding window transformer (MCL-SWT). 
 
 Written by Jing Luo from Xi'an University of Technology, China.
 
