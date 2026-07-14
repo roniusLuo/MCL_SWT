@@ -61,7 +61,7 @@ def train(option, train_set, test_set_existsub, test_set_newsub):
             else:
                 length = (i + 1) * len(batch_label)
 
-            cs_loss = lossC(torch.clamp(pred, min=1e-6), batch_label)
+            cs_loss = lossC(pred, batch_label)
             loss = cs_loss + option.weight_LDO * lossDO(orig_feature, batch_label) + \
                    option.weight_LDM * lossDM(orig_feature, mirror_feature, batch_label, mirror_label)
             train_loss += loss.detach().cpu().numpy()
